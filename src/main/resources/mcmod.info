@@ -1,0 +1,16 @@
+[
+{
+  "modid": "squeakbox",
+  "name": "Squeakbox",
+  "description": "Record and play sounds.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lincore"],
+  "credits": "Thanks to all the devs who are not afraid to share their source code.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
